@@ -34,4 +34,4 @@ EXPOSE 25565
 VOLUME ["/minecraft/world"]
 
 # Start server
-CMD ["/bin/bash", "/minecraft/start.sh"]
+CMD ["/bin/bash", "/minecraft/run.sh"]
