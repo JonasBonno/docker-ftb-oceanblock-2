@@ -5,7 +5,7 @@ made by Feed The Beast at https://feed-the-beast.com
 Modpack for Minecraft 1.21.1.</br>
 Your escape pod has crashed on an unknown planet, a world of water. Nothing but endless ocean. No land. No rescue. You’re alone - or so you think...
 
-<img src="https://www.feed-the-beast.com/_next/image?url=https%3A%2F%2Fcdn.feed-the-beast.com%2Fblob%2Ffa%2Ffae647b9fa950ab09081ca6b395ea02dd06c7532b09b22fc3eb035b3092f7f78.png&w=640&q=75" width="256" height="256">
+<img src="https://www.feed-the-beast.com/_next/image?url=https%3A%2F%2Fcdn.feed-the-beast.com%2Fblob%2Ffa%2Ffae647b9fa950ab09081ca6b395ea02dd06c7532b09b22fc3eb035b3092f7f78.png&w=256&q=75" width="256" height="256">
 
 NOTE: In compliance with Mojang "End User License Agreement", you will need to agree to the EULA in order to run your own Minecraft server. By using this container you acknowledge the EULA! If you do not agree, then you are not permitted to use this container!
 https://account.mojang.com/documents/minecraft_eula 
